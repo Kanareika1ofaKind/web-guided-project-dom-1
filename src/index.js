@@ -14,7 +14,7 @@ const subtitleFirstCard = null
 const textFirstCard = null
 // C- traversing with dot notation
 const link1FirstCard = null
-const link2FirstCard = null
+const link2FirstCard = document.querySelector('')
 
 
 // 👉 2- Finding collections of elements in the DOM
